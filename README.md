@@ -33,6 +33,8 @@ I'm a **Computer Science Graduate** passionate about **software engineering, cyb
 - **Cloud computing architectures** to create scalable and efficient applications.
 
 ## 💞️ I’m Looking to Collaborate On
+- **Cybersecurity projects**, such as vulnerability assessments, secure system design, or threat detection tools.
+- **Open-source initiatives** involving secure software development or automation.
 - **Machine learning and data science projects** that offer innovative solutions for real-world problems.
 - **Open-source projects** that focus on app development, automation, or robotics.
 
