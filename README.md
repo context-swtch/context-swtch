@@ -9,8 +9,8 @@ I'm a **Computer Science Graduate** passionate about **software engineering, cyb
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C/C++, C#, Java, R, SQL, JavaScript, Kotlin
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, NLTK, pandas, numpy
 - **Cybersecurity Tools**: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, John The Ripper, Hashcat
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, NLTK, pandas, numpy
 - **Backend Development**: Flask, FastAPI, Docker, REST APIs, Node.js
 - **Cloud Services**: AWS (EC2, S3, Lambda), Azure, Google Cloud
 - **Database Management**: MySQL, PostgreSQL, MongoDB, Firebase
