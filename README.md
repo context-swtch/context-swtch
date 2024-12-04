@@ -8,12 +8,13 @@ I'm a **Computer Science Graduate** passionate about **software engineering, mac
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C/C++, C#, Java, R, SQL, JavaScript, Kotlin
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras, NLTK, pandas, numpy
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, NLTK, pandas, numpy
+- ****Cybersecurity Tools**: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, John The Ripper, Hashcat
 - **Backend Development**: Flask, FastAPI, Docker, REST APIs, Node.js
-- **Cloud Services**: AWS (EC2, S3, Lambda), Asure, Google Cloud
+- **Cloud Services**: AWS (EC2, S3, Lambda), Azure, Google Cloud
 - **Database Management**: MySQL, PostgreSQL, MongoDB, Firebase
-- **DevOps & CI/CD**: Jenkins, GitHub Actions, Docker, Kubernetes
-- **Other Skills**: Test-driven development, object-oriented programming, natural language processing, Agile methodologies
+- **DevOps & CI/CD**: Jenkins, Docker, Kubernetes
+- **Other Skills**: Test-driven Development, Object-oriented Programming, Natural Language Processing, Agile Methodologies
 
 ## 🖥️ Projects
 - **Intelligent Agriculture Agent**: Developed a virtual model to simulate plant growth, enabling comparative analyses for robotic interventions and achieving a 20% improvement in resource efficiency.
