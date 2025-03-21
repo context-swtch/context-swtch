@@ -45,7 +45,7 @@ I'm a **Computer Science Graduate** passionate about **software engineering, cyb
 - I’ve recently started learning **watchmaking** and **DJing** as hobbies, enjoying the precision of watch mechanics and the creative expression of mixing!
 
 ## 🚀 Interests
-Outside of work, I'm passionate about **motorsports**, **working on cars**, **music**, **tennis** **hiking** and **animals**! I enjoy challenging myself and finding new ways to apply my technical skills in creative projects.
+Outside of work, I'm passionate about **motorsports**, **working on cars**, **music**, **tennis**, **hiking** and **animals**! I enjoy challenging myself and finding new ways to apply my technical skills in creative projects.
 
 ## 📫 Get in Touch
 - **Email**: [parnellxavier@gmail.com](mailto:parnellxavier@gmail.com)
